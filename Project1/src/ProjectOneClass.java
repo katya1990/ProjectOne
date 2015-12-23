@@ -5,6 +5,7 @@ public class ProjectOneClass {
 		System.out.println("Katya!");
 		System.out.println("Hello!");
 		//comment
+		//new comment
 
 
 	}
